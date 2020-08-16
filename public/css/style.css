@@ -1,0 +1,30 @@
+/* global */
+body {
+    background-color: bisque;
+}
+
+
+/* login page */
+
+.login-border {
+    border-radius: 15px;
+}
+
+/* MISC */
+.p {
+    margin: 0.6rem 0 !important;
+    /* We are marking it as important just in case we want to override any settings that come with materialize  */
+}
+
+.login-container {
+    max-width: 25rem;
+    margin-top: 3rem;
+    text-align: center;
+}
+
+
+
+.btn-float {
+    float: left;
+    margin-right: 10px;
+}
